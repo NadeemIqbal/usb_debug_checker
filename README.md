@@ -1,15 +1,17 @@
 # usb_debug_checker
 
-A new Flutter plugin project to check if USB Debugging is Enabled in Android.
+A Flutter plugin that allows you to check if **USB Debugging** is enabled on an Android device.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+- Easily check if **USB Debugging** is enabled.
+- Simple integration with your Flutter apps.
+- Lightweight and efficient.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
 
+To add this plugin to your Flutter project, include it in your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  usb_debug_checker: ^0.0.1
