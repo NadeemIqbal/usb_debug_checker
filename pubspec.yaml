@@ -1,6 +1,6 @@
 name: usb_debug_checker
 description: "A Flutter plugin to check if USB debugging is enabled on Android."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/NadeemIqbal/usb_debug_checker
 
 environment:
